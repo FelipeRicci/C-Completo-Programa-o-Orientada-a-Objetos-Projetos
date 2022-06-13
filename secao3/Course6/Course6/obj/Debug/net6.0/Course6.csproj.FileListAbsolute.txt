@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\C# Completo Programação Orientada a Objetos + Projetos\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao3\Course6\Course6\bin\Debug\net6.0\Course6.exe
+C:\Users\Felipe\Desktop\C# Completo Programação Orientada a Objetos + Projetos\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao3\Course6\Course6\bin\Debug\net6.0\Course6.deps.json
+C:\Users\Felipe\Desktop\C# Completo Programação Orientada a Objetos + Projetos\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao3\Course6\Course6\bin\Debug\net6.0\Course6.runtimeconfig.json
+C:\Users\Felipe\Desktop\C# Completo Programação Orientada a Objetos + Projetos\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao3\Course6\Course6\bin\Debug\net6.0\Course6.dll
+C:\Users\Felipe\Desktop\C# Completo Programação Orientada a Objetos + Projetos\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao3\Course6\Course6\bin\Debug\net6.0\Course6.pdb
+C:\Users\Felipe\Desktop\C# Completo Programação Orientada a Objetos + Projetos\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao3\Course6\Course6\obj\Debug\net6.0\Course6.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\C# Completo Programação Orientada a Objetos + Projetos\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao3\Course6\Course6\obj\Debug\net6.0\Course6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\C# Completo Programação Orientada a Objetos + Projetos\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao3\Course6\Course6\obj\Debug\net6.0\Course6.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\C# Completo Programação Orientada a Objetos + Projetos\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao3\Course6\Course6\obj\Debug\net6.0\Course6.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\C# Completo Programação Orientada a Objetos + Projetos\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao3\Course6\Course6\obj\Debug\net6.0\Course6.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\C# Completo Programação Orientada a Objetos + Projetos\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao3\Course6\Course6\obj\Debug\net6.0\Course6.dll
+C:\Users\Felipe\Desktop\C# Completo Programação Orientada a Objetos + Projetos\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao3\Course6\Course6\obj\Debug\net6.0\refint\Course6.dll
+C:\Users\Felipe\Desktop\C# Completo Programação Orientada a Objetos + Projetos\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao3\Course6\Course6\obj\Debug\net6.0\Course6.pdb
+C:\Users\Felipe\Desktop\C# Completo Programação Orientada a Objetos + Projetos\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao3\Course6\Course6\obj\Debug\net6.0\Course6.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\C# Completo Programação Orientada a Objetos + Projetos\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao3\Course6\Course6\obj\Debug\net6.0\ref\Course6.dll
