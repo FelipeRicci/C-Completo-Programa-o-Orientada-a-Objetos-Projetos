@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\Exercicios\Atividade07\Atividade07\bin\Debug\net6.0\Atividade07.exe
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\Exercicios\Atividade07\Atividade07\bin\Debug\net6.0\Atividade07.deps.json
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\Exercicios\Atividade07\Atividade07\bin\Debug\net6.0\Atividade07.runtimeconfig.json
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\Exercicios\Atividade07\Atividade07\bin\Debug\net6.0\Atividade07.dll
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\Exercicios\Atividade07\Atividade07\bin\Debug\net6.0\Atividade07.pdb
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\Exercicios\Atividade07\Atividade07\obj\Debug\net6.0\Atividade07.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\Exercicios\Atividade07\Atividade07\obj\Debug\net6.0\Atividade07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\Exercicios\Atividade07\Atividade07\obj\Debug\net6.0\Atividade07.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\Exercicios\Atividade07\Atividade07\obj\Debug\net6.0\Atividade07.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\Exercicios\Atividade07\Atividade07\obj\Debug\net6.0\Atividade07.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\Exercicios\Atividade07\Atividade07\obj\Debug\net6.0\Atividade07.dll
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\Exercicios\Atividade07\Atividade07\obj\Debug\net6.0\refint\Atividade07.dll
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\Exercicios\Atividade07\Atividade07\obj\Debug\net6.0\Atividade07.pdb
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\Exercicios\Atividade07\Atividade07\obj\Debug\net6.0\Atividade07.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\Exercicios\Atividade07\Atividade07\obj\Debug\net6.0\ref\Atividade07.dll

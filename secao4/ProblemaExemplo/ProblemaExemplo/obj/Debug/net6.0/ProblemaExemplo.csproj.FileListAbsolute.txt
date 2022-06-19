@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\ProblemaExemplo\ProblemaExemplo\bin\Debug\net6.0\ProblemaExemplo.exe
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\ProblemaExemplo\ProblemaExemplo\bin\Debug\net6.0\ProblemaExemplo.deps.json
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\ProblemaExemplo\ProblemaExemplo\bin\Debug\net6.0\ProblemaExemplo.runtimeconfig.json
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\ProblemaExemplo\ProblemaExemplo\bin\Debug\net6.0\ProblemaExemplo.dll
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\ProblemaExemplo\ProblemaExemplo\bin\Debug\net6.0\ProblemaExemplo.pdb
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\ProblemaExemplo\ProblemaExemplo\obj\Debug\net6.0\ProblemaExemplo.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\ProblemaExemplo\ProblemaExemplo\obj\Debug\net6.0\ProblemaExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\ProblemaExemplo\ProblemaExemplo\obj\Debug\net6.0\ProblemaExemplo.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\ProblemaExemplo\ProblemaExemplo\obj\Debug\net6.0\ProblemaExemplo.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\ProblemaExemplo\ProblemaExemplo\obj\Debug\net6.0\ProblemaExemplo.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\ProblemaExemplo\ProblemaExemplo\obj\Debug\net6.0\ProblemaExemplo.dll
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\ProblemaExemplo\ProblemaExemplo\obj\Debug\net6.0\refint\ProblemaExemplo.dll
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\ProblemaExemplo\ProblemaExemplo\obj\Debug\net6.0\ProblemaExemplo.pdb
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\ProblemaExemplo\ProblemaExemplo\obj\Debug\net6.0\ProblemaExemplo.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao4\ProblemaExemplo\ProblemaExemplo\obj\Debug\net6.0\ref\ProblemaExemplo.dll
