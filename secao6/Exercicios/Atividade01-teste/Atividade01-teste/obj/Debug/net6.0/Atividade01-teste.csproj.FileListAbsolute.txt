@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Atividade01-teste\Atividade01-teste\bin\Debug\net6.0\Atividade01-teste.exe
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Atividade01-teste\Atividade01-teste\bin\Debug\net6.0\Atividade01-teste.deps.json
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Atividade01-teste\Atividade01-teste\bin\Debug\net6.0\Atividade01-teste.runtimeconfig.json
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Atividade01-teste\Atividade01-teste\bin\Debug\net6.0\Atividade01-teste.dll
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Atividade01-teste\Atividade01-teste\bin\Debug\net6.0\Atividade01-teste.pdb
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Atividade01-teste\Atividade01-teste\obj\Debug\net6.0\Atividade01-teste.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Atividade01-teste\Atividade01-teste\obj\Debug\net6.0\Atividade01-teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Atividade01-teste\Atividade01-teste\obj\Debug\net6.0\Atividade01-teste.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Atividade01-teste\Atividade01-teste\obj\Debug\net6.0\Atividade01-teste.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Atividade01-teste\Atividade01-teste\obj\Debug\net6.0\Atividade01-teste.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Atividade01-teste\Atividade01-teste\obj\Debug\net6.0\Atividade01-teste.dll
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Atividade01-teste\Atividade01-teste\obj\Debug\net6.0\refint\Atividade01-teste.dll
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Atividade01-teste\Atividade01-teste\obj\Debug\net6.0\Atividade01-teste.pdb
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Atividade01-teste\Atividade01-teste\obj\Debug\net6.0\Atividade01-teste.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Atividade01-teste\Atividade01-teste\obj\Debug\net6.0\ref\Atividade01-teste.dll

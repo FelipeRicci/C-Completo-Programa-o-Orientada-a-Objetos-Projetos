@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Lista01\Lista01\bin\Debug\net6.0\Lista01.exe
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Lista01\Lista01\bin\Debug\net6.0\Lista01.deps.json
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Lista01\Lista01\bin\Debug\net6.0\Lista01.runtimeconfig.json
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Lista01\Lista01\bin\Debug\net6.0\Lista01.dll
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Lista01\Lista01\bin\Debug\net6.0\Lista01.pdb
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Lista01\Lista01\obj\Debug\net6.0\Lista01.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Lista01\Lista01\obj\Debug\net6.0\Lista01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Lista01\Lista01\obj\Debug\net6.0\Lista01.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Lista01\Lista01\obj\Debug\net6.0\Lista01.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Lista01\Lista01\obj\Debug\net6.0\Lista01.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Lista01\Lista01\obj\Debug\net6.0\Lista01.dll
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Lista01\Lista01\obj\Debug\net6.0\refint\Lista01.dll
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Lista01\Lista01\obj\Debug\net6.0\Lista01.pdb
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Lista01\Lista01\obj\Debug\net6.0\Lista01.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Lista01\Lista01\obj\Debug\net6.0\ref\Lista01.dll

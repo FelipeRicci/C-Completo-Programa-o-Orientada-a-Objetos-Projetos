@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Matriz03\Matriz03\bin\Debug\net6.0\Matriz03.exe
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Matriz03\Matriz03\bin\Debug\net6.0\Matriz03.deps.json
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Matriz03\Matriz03\bin\Debug\net6.0\Matriz03.runtimeconfig.json
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Matriz03\Matriz03\bin\Debug\net6.0\Matriz03.dll
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Matriz03\Matriz03\bin\Debug\net6.0\Matriz03.pdb
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Matriz03\Matriz03\obj\Debug\net6.0\Matriz03.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Matriz03\Matriz03\obj\Debug\net6.0\Matriz03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Matriz03\Matriz03\obj\Debug\net6.0\Matriz03.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Matriz03\Matriz03\obj\Debug\net6.0\Matriz03.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Matriz03\Matriz03\obj\Debug\net6.0\Matriz03.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Matriz03\Matriz03\obj\Debug\net6.0\Matriz03.dll
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Matriz03\Matriz03\obj\Debug\net6.0\refint\Matriz03.dll
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Matriz03\Matriz03\obj\Debug\net6.0\Matriz03.pdb
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Matriz03\Matriz03\obj\Debug\net6.0\Matriz03.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\C# Completo\C-Sharp-Completo-Programa-o-Orientada-a-Objetos-Projetos\secao6\Exercicios\Matriz03\Matriz03\obj\Debug\net6.0\ref\Matriz03.dll
